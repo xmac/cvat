@@ -1,0 +1,156 @@
+[2021-08-22 10:57:14,298] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-22 11:01:47,013] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-22 11:03:38,360] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-22 11:05:19,104] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-22 11:06:25,791] INFO django.server: "GET / HTTP/1.1" 301 0
+[2021-08-22 11:11:40,463] INFO django.server: "GET / HTTP/1.1" 301 0
+[2021-08-24 06:52:07,051] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-24 06:52:32,510] INFO django.server: "GET /admin HTTP/1.1" 301 0
+[2021-08-24 06:52:32,588] INFO django.server: "GET /admin/ HTTP/1.1" 302 0
+[2021-08-24 06:52:32,720] INFO django.server: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[2021-08-24 06:52:32,845] INFO django.server: "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[2021-08-24 06:52:32,846] INFO django.server: "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[2021-08-24 06:52:32,847] INFO django.server: "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[2021-08-24 06:52:32,848] INFO django.server: "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[2021-08-24 06:52:32,850] INFO django.server: "GET /static/admin/css/responsive.css HTTP/1.1" 200 18344
+[2021-08-24 06:52:32,887] INFO django.server: "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[2021-08-24 06:52:32,910] INFO django.server: "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2021-08-24 06:52:32,912] INFO django.server: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2021-08-26 12:29:33,174] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-28 19:30:40,372] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-28 19:31:00,210] INFO django.server: "GET / HTTP/1.1" 301 0
+[2021-08-28 19:31:09,628] INFO django.server: "GET /admin HTTP/1.1" 301 0
+[2021-08-28 19:31:09,696] INFO django.server: "GET /admin/ HTTP/1.1" 302 0
+[2021-08-28 19:31:09,813] INFO django.server: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[2021-08-28 19:31:09,885] INFO django.server: "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[2021-08-28 19:31:09,887] INFO django.server: "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[2021-08-28 19:31:09,887] INFO django.server: "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[2021-08-28 19:31:09,887] INFO django.server: "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[2021-08-28 19:31:09,888] INFO django.server: "GET /static/admin/css/responsive.css HTTP/1.1" 200 18344
+[2021-08-28 19:31:09,919] INFO django.server: "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[2021-08-28 19:31:10,035] INFO django.server: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2021-08-28 19:31:10,037] INFO django.server: "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2021-08-28 19:31:10,050] WARNING django.request: Not Found: /favicon.ico
+[2021-08-28 19:31:10,051] WARNING django.server: "GET /favicon.ico HTTP/1.1" 404 3481
+[2021-08-28 19:31:19,778] INFO django.server: "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2353
+[2021-08-28 19:31:19,889] INFO django.server: "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[2021-08-28 19:31:24,127] INFO django.server: "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2353
+[2021-08-28 19:32:28,607] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-28 19:33:08,529] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-28 19:33:27,708] INFO django.server: "GET / HTTP/1.1" 301 0
+[2021-08-28 19:33:35,681] INFO django.server: "GET /admin HTTP/1.1" 301 0
+[2021-08-28 19:33:35,737] INFO django.server: "GET /admin/ HTTP/1.1" 302 0
+[2021-08-28 19:33:35,870] INFO django.server: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+[2021-08-28 19:33:35,942] INFO django.server: "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+[2021-08-28 19:33:35,944] INFO django.server: "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+[2021-08-28 19:33:35,944] INFO django.server: "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[2021-08-28 19:33:35,945] INFO django.server: "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+[2021-08-28 19:33:35,946] INFO django.server: "GET /static/admin/css/responsive.css HTTP/1.1" 200 18344
+[2021-08-28 19:33:35,974] INFO django.server: "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[2021-08-28 19:33:36,024] INFO django.server: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2021-08-28 19:33:36,024] INFO django.server: "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2021-08-28 19:33:36,037] WARNING django.request: Not Found: /favicon.ico
+[2021-08-28 19:33:36,051] WARNING django.server: "GET /favicon.ico HTTP/1.1" 404 3481
+[2021-08-28 19:33:41,197] INFO django.server: "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2021-08-28 19:33:41,234] INFO django.server: "GET /admin/ HTTP/1.1" 200 8758
+[2021-08-28 19:33:41,283] INFO django.server: "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[2021-08-28 19:33:41,284] INFO django.server: "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2021-08-28 19:33:41,284] INFO django.server: "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2021-08-28 19:33:41,289] INFO django.server: "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[2021-08-28 19:33:45,167] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:33:45,240] INFO django.server: "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2021-08-28 19:33:45,242] INFO django.server: "GET /static/admin/css/changelists.css HTTP/1.1" 200 6302
+[2021-08-28 19:33:45,246] INFO django.server: "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6078
+[2021-08-28 19:33:45,246] INFO django.server: "GET /static/admin/js/core.js HTTP/1.1" 200 5418
+[2021-08-28 19:33:45,249] INFO django.server: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[2021-08-28 19:33:45,268] INFO django.server: "GET /static/admin/js/actions.js HTTP/1.1" 200 6783
+[2021-08-28 19:33:45,269] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:33:45,272] INFO django.server: "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[2021-08-28 19:33:45,272] INFO django.server: "GET /static/admin/js/urlify.js HTTP/1.1" 200 8632
+[2021-08-28 19:33:45,286] INFO django.server: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[2021-08-28 19:33:45,330] INFO django.server: "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2021-08-28 19:33:45,330] INFO django.server: "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[2021-08-28 19:33:45,344] INFO django.server: "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[2021-08-28 19:33:45,344] INFO django.server: "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2021-08-28 19:33:47,230] INFO django.server: "GET /admin/auth/user/1/change/ HTTP/1.1" 200 16466
+[2021-08-28 19:33:47,296] INFO django.server: "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4257
+[2021-08-28 19:33:47,297] INFO django.server: "GET /static/admin/css/forms.css HTTP/1.1" 200 8423
+[2021-08-28 19:33:47,300] INFO django.server: "GET /static/admin/js/calendar.js HTTP/1.1" 200 7788
+[2021-08-28 19:33:47,301] INFO django.server: "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12350
+[2021-08-28 19:33:47,301] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:33:47,304] INFO django.server: "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19750
+[2021-08-28 19:33:47,317] INFO django.server: "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[2021-08-28 19:33:47,317] INFO django.server: "GET /static/admin/css/widgets.css HTTP/1.1" 200 10592
+[2021-08-28 19:33:47,329] INFO django.server: "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[2021-08-28 19:33:47,410] INFO django.server: "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[2021-08-28 19:33:47,410] INFO django.server: "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[2021-08-28 19:33:47,414] INFO django.server: "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[2021-08-28 19:33:47,415] INFO django.server: "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[2021-08-28 19:33:47,415] INFO django.server: "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[2021-08-28 19:33:49,514] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:33:50,864] INFO django.server: "GET /admin/ HTTP/1.1" 200 8758
+[2021-08-28 19:33:52,463] INFO django.server: "GET /admin/engine/task/ HTTP/1.1" 200 8474
+[2021-08-28 19:33:52,524] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:33:53,869] INFO django.server: "GET /admin/ HTTP/1.1" 200 8758
+[2021-08-28 19:33:55,049] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:33:55,123] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:33:56,794] INFO django.server: "GET /admin/auth/user/1/change/ HTTP/1.1" 200 16466
+[2021-08-28 19:33:56,856] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:34:01,849] WARNING django.request: Not Found: /users
+[2021-08-28 19:34:01,850] WARNING django.server: "GET /users HTTP/1.1" 404 3463
+[2021-08-28 19:34:05,982] WARNING django.request: Not Found: /user
+[2021-08-28 19:34:05,982] WARNING django.server: "GET /user HTTP/1.1" 404 3460
+[2021-08-28 19:34:21,568] INFO django.server: "GET /admin/auth/user/1/change/ HTTP/1.1" 200 16466
+[2021-08-28 19:34:24,296] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:34:26,582] INFO django.server: "GET /admin/engine/task/ HTTP/1.1" 200 8474
+[2021-08-28 19:34:26,644] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:34:29,258] INFO django.server: "GET /admin/engine/project/ HTTP/1.1" 200 8489
+[2021-08-28 19:34:29,309] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:34:30,464] INFO django.server: "GET /admin/engine/cloudstorage/ HTTP/1.1" 200 8518
+[2021-08-28 19:34:30,523] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:34:32,321] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:34:32,378] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:34:39,007] WARNING django.request: Not Found: /admin/v1/users
+[2021-08-28 19:34:39,008] WARNING django.server: "GET /admin/v1/users HTTP/1.1" 404 7151
+[2021-08-28 19:35:04,037] INFO django.server: "GET /api/v1/users HTTP/1.1" 200 15927
+[2021-08-28 19:35:04,125] INFO django.server: "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+[2021-08-28 19:35:04,125] INFO django.server: "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[2021-08-28 19:35:04,126] INFO django.server: "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[2021-08-28 19:35:04,126] INFO django.server: "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[2021-08-28 19:35:04,131] INFO django.server: "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+[2021-08-28 19:35:04,138] INFO django.server: "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[2021-08-28 19:35:04,141] INFO django.server: "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[2021-08-28 19:35:04,143] INFO django.server: "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[2021-08-28 19:35:04,143] INFO django.server: "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2021-08-28 19:35:04,145] INFO django.server: "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2021-08-28 19:35:04,202] INFO django.server: "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[2021-08-28 19:35:04,269] INFO django.server: "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[2021-08-28 19:35:10,136] INFO django.server: "GET /api/v1/users HTTP/1.1" 200 15927
+[2021-08-28 19:35:12,717] WARNING django.request: Not Found: /api/v1/users/3
+[2021-08-28 19:35:12,717] WARNING django.server: "GET /api/v1/users/3 HTTP/1.1" 404 13186
+[2021-08-28 19:35:16,547] INFO django.server: "GET /api/v1/users HTTP/1.1" 200 15927
+[2021-08-28 19:36:24,244] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:36:24,863] INFO django.server: "GET /admin/engine/cloudstorage/ HTTP/1.1" 200 8518
+[2021-08-28 19:36:26,574] INFO django.server: "GET /admin/engine/task/ HTTP/1.1" 200 8474
+[2021-08-28 19:36:26,644] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:27,769] INFO django.server: "GET /admin/engine/task/ HTTP/1.1" 200 8474
+[2021-08-28 19:36:27,832] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:28,741] INFO django.server: "GET /admin/engine/project/ HTTP/1.1" 200 8489
+[2021-08-28 19:36:28,792] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:31,015] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:36:31,071] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:32,566] INFO django.server: "GET /admin/auth/group/ HTTP/1.1" 200 10275
+[2021-08-28 19:36:32,620] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:36,063] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:36:36,116] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:42,387] INFO django.server: "GET /admin/auth/user/1/change/ HTTP/1.1" 200 16466
+[2021-08-28 19:36:42,443] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:47,794] INFO django.server: "GET /admin/auth/user/ HTTP/1.1" 200 12078
+[2021-08-28 19:36:47,851] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:50,126] INFO django.server: "GET /admin/auth/user/add/ HTTP/1.1" 200 10639
+[2021-08-28 19:36:50,176] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:36:58,028] INFO django.server: "POST /admin/auth/user/add/ HTTP/1.1" 200 10797
+[2021-08-28 19:36:58,102] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+[2021-08-28 19:37:07,763] INFO django.server: "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+[2021-08-28 19:37:07,859] INFO django.server: "GET /admin/auth/user/2/change/ HTTP/1.1" 200 16624
+[2021-08-28 19:37:07,917] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3187
